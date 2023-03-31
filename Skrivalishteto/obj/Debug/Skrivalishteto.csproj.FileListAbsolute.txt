@@ -1,0 +1,8 @@
+D:\Програмиране\new tasks\DopulnitelniFunkciiString\Skrivalishteto\bin\Debug\Skrivalishteto.exe.config
+D:\Програмиране\new tasks\DopulnitelniFunkciiString\Skrivalishteto\bin\Debug\Skrivalishteto.exe
+D:\Програмиране\new tasks\DopulnitelniFunkciiString\Skrivalishteto\bin\Debug\Skrivalishteto.pdb
+D:\Програмиране\new tasks\DopulnitelniFunkciiString\Skrivalishteto\obj\Debug\Skrivalishteto.csproj.AssemblyReference.cache
+D:\Програмиране\new tasks\DopulnitelniFunkciiString\Skrivalishteto\obj\Debug\Skrivalishteto.csproj.SuggestedBindingRedirects.cache
+D:\Програмиране\new tasks\DopulnitelniFunkciiString\Skrivalishteto\obj\Debug\Skrivalishteto.csproj.CoreCompileInputs.cache
+D:\Програмиране\new tasks\DopulnitelniFunkciiString\Skrivalishteto\obj\Debug\Skrivalishteto.exe
+D:\Програмиране\new tasks\DopulnitelniFunkciiString\Skrivalishteto\obj\Debug\Skrivalishteto.pdb

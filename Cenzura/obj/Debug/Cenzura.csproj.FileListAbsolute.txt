@@ -1,0 +1,8 @@
+D:\Програмиране\new tasks\DopulnitelniFunkciiString\Cenzura\bin\Debug\Cenzura.exe.config
+D:\Програмиране\new tasks\DopulnitelniFunkciiString\Cenzura\bin\Debug\Cenzura.exe
+D:\Програмиране\new tasks\DopulnitelniFunkciiString\Cenzura\bin\Debug\Cenzura.pdb
+D:\Програмиране\new tasks\DopulnitelniFunkciiString\Cenzura\obj\Debug\Cenzura.csproj.AssemblyReference.cache
+D:\Програмиране\new tasks\DopulnitelniFunkciiString\Cenzura\obj\Debug\Cenzura.csproj.SuggestedBindingRedirects.cache
+D:\Програмиране\new tasks\DopulnitelniFunkciiString\Cenzura\obj\Debug\Cenzura.csproj.CoreCompileInputs.cache
+D:\Програмиране\new tasks\DopulnitelniFunkciiString\Cenzura\obj\Debug\Cenzura.exe
+D:\Програмиране\new tasks\DopulnitelniFunkciiString\Cenzura\obj\Debug\Cenzura.pdb

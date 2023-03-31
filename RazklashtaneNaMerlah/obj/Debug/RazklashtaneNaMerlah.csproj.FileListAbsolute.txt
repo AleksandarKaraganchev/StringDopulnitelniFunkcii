@@ -1,0 +1,8 @@
+D:\Програмиране\new tasks\DopulnitelniFunkciiString\RazklashtaneNaMerlah\bin\Debug\RazklashtaneNaMerlah.exe.config
+D:\Програмиране\new tasks\DopulnitelniFunkciiString\RazklashtaneNaMerlah\bin\Debug\RazklashtaneNaMerlah.exe
+D:\Програмиране\new tasks\DopulnitelniFunkciiString\RazklashtaneNaMerlah\bin\Debug\RazklashtaneNaMerlah.pdb
+D:\Програмиране\new tasks\DopulnitelniFunkciiString\RazklashtaneNaMerlah\obj\Debug\RazklashtaneNaMerlah.csproj.AssemblyReference.cache
+D:\Програмиране\new tasks\DopulnitelniFunkciiString\RazklashtaneNaMerlah\obj\Debug\RazklashtaneNaMerlah.csproj.SuggestedBindingRedirects.cache
+D:\Програмиране\new tasks\DopulnitelniFunkciiString\RazklashtaneNaMerlah\obj\Debug\RazklashtaneNaMerlah.csproj.CoreCompileInputs.cache
+D:\Програмиране\new tasks\DopulnitelniFunkciiString\RazklashtaneNaMerlah\obj\Debug\RazklashtaneNaMerlah.exe
+D:\Програмиране\new tasks\DopulnitelniFunkciiString\RazklashtaneNaMerlah\obj\Debug\RazklashtaneNaMerlah.pdb

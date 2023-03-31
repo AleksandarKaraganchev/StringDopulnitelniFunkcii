@@ -1,0 +1,8 @@
+D:\Програмиране\new tasks\DopulnitelniFunkciiString\IzpratiMiImeil\obj\Debug\IzpratiMiImeil.csproj.AssemblyReference.cache
+D:\Програмиране\new tasks\DopulnitelniFunkciiString\IzpratiMiImeil\obj\Debug\IzpratiMiImeil.csproj.SuggestedBindingRedirects.cache
+D:\Програмиране\new tasks\DopulnitelniFunkciiString\IzpratiMiImeil\obj\Debug\IzpratiMiImeil.csproj.CoreCompileInputs.cache
+D:\Програмиране\new tasks\DopulnitelniFunkciiString\IzpratiMiImeil\bin\Debug\IzpratiMiImeil.exe.config
+D:\Програмиране\new tasks\DopulnitelniFunkciiString\IzpratiMiImeil\bin\Debug\IzpratiMiImeil.exe
+D:\Програмиране\new tasks\DopulnitelniFunkciiString\IzpratiMiImeil\bin\Debug\IzpratiMiImeil.pdb
+D:\Програмиране\new tasks\DopulnitelniFunkciiString\IzpratiMiImeil\obj\Debug\IzpratiMiImeil.exe
+D:\Програмиране\new tasks\DopulnitelniFunkciiString\IzpratiMiImeil\obj\Debug\IzpratiMiImeil.pdb
